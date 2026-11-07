@@ -1,0 +1,1271 @@
+{
+ "version": 1,
+ "levels": [
+  {
+   "code": "A1",
+   "name": "مبتدئ",
+   "units": [
+    {
+     "id": "a1_01",
+     "title": "Begrüßung & Vorstellung",
+     "titleAr": "التحيات والتعارف",
+     "grammarTitle": "الضمائر وفعل sein",
+     "grammar": "الضمائر الشخصية:\nich = أنا | du = أنتَ/أنتِ (للمقرّب) | er = هو | sie = هي | es = هو/هي لغير العاقل | wir = نحن | ihr = أنتم (للمقرّبين) | sie = هم | Sie = حضرتك/حضرتكم (رسمي، دائمًا بحرف S كبير)\n\nتصريف sein (يكون):\nich bin · du bist · er/sie/es ist · wir sind · ihr seid · sie/Sie sind\n\nتصريف heißen (اسمه):\nIch heiße Sara. · Wie heißt du?\n\nقاعدة ذهبية: في الجملة الخبرية الفعل المصرّف دائمًا في المكان الثاني:\nIch komme aus Ägypten.",
+     "vocab": [
+      [
+       "Hallo",
+       "مرحبا",
+       "Hallo, ich bin Ahmed."
+      ],
+      [
+       "Guten Morgen",
+       "صباح الخير",
+       "Guten Morgen, Frau Müller!"
+      ],
+      [
+       "Guten Tag",
+       "نهارك سعيد",
+       "Guten Tag, wie geht es Ihnen?"
+      ],
+      [
+       "Guten Abend",
+       "مساء الخير",
+       "Guten Abend, Herr Schmidt."
+      ],
+      [
+       "Tschüss",
+       "مع السلامة (للأصدقاء)",
+       "Tschüss, bis morgen!"
+      ],
+      [
+       "Auf Wiedersehen",
+       "إلى اللقاء",
+       "Auf Wiedersehen, Frau Weber."
+      ],
+      [
+       "Danke",
+       "شكرا",
+       "Danke schön!"
+      ],
+      [
+       "Bitte",
+       "من فضلك / عفوا",
+       "Bitte, nehmen Sie Platz."
+      ],
+      [
+       "Entschuldigung",
+       "عذرا / آسف",
+       "Entschuldigung, wo ist der Bahnhof?"
+      ],
+      [
+       "Wie heißt du?",
+       "ما اسمك؟",
+       "Wie heißt du? – Ich heiße Sara."
+      ],
+      [
+       "Woher kommst du?",
+       "من أين أنت؟",
+       "Woher kommst du? – Ich komme aus Ägypten."
+      ],
+      [
+       "Wie geht es dir?",
+       "كيف حالك؟",
+       "Wie geht es dir? – Gut, danke!"
+      ]
+     ]
+    },
+    {
+     "id": "a1_02",
+     "title": "Zahlen",
+     "titleAr": "الأعداد",
+     "grammarTitle": "الأعداد والعمر والسعر",
+     "grammar": "13–19: الوحدة + zehn → dreizehn، vierzehn، fünfzehn، sechzehn (بدون s)، siebzehn (بدون en).\nمن 21: الآحاد أولًا ثم und ثم العشرات: einundzwanzig (واحد وعشرون)، dreiunddreißig.\n\nالعمر: Ich bin zwanzig Jahre alt.\nالسعر: Das kostet zehn Euro.\nالساعة: Es ist drei Uhr.\nملاحظة: eins يصير ein/eine قبل الاسم: ein Bruder, eine Schwester.",
+     "vocab": [
+      [
+       "null",
+       "صفر (0)",
+       "Null Grad ist kalt."
+      ],
+      [
+       "eins",
+       "واحد (1)",
+       "Eins, zwei, drei!"
+      ],
+      [
+       "zwei",
+       "اثنان (2)",
+       "Das Zimmer hat zwei Fenster."
+      ],
+      [
+       "drei",
+       "ثلاثة (3)",
+       "Ich habe drei Brüder."
+      ],
+      [
+       "vier",
+       "أربعة (4)",
+       "Es ist vier Uhr."
+      ],
+      [
+       "fünf",
+       "خمسة (5)",
+       "Fünf Minuten, bitte."
+      ],
+      [
+       "sechs",
+       "ستة (6)",
+       "Sie ist sechs Jahre alt."
+      ],
+      [
+       "sieben",
+       "سبعة (7)",
+       "Die Woche hat sieben Tage."
+      ],
+      [
+       "acht",
+       "ثمانية (8)",
+       "Ich stehe um acht Uhr auf."
+      ],
+      [
+       "neun",
+       "تسعة (9)",
+       "Neun plus eins ist zehn."
+      ],
+      [
+       "zehn",
+       "عشرة (10)",
+       "Das kostet zehn Euro."
+      ],
+      [
+       "zwanzig",
+       "عشرون (20)",
+       "Ich bin zwanzig Jahre alt."
+      ]
+     ]
+    },
+    {
+     "id": "a1_03",
+     "title": "Familie",
+     "titleAr": "العائلة",
+     "grammarTitle": "الأجناس: der / die / das",
+     "grammar": "كل اسم ألماني له جنس: der (مذكر) · die (مؤنث) · das (محايد). والجمع دائمًا die.\nتعلّم الاسم مع أداته دائمًا: die Mutter، der Vater.\n\nأداة النكرة: ein (مذكر/محايد) · eine (مؤنث): ein Bruder, eine Schwester.\nالملكية: mein (مذكر/محايد) · meine (مؤنث/جمع): mein Vater, meine Mutter, meine Eltern.\n\nالجمع: Bruder → Brüder · Schwester → Schwestern · Sohn → Söhne · Tochter → Töchter.",
+     "vocab": [
+      [
+       "die Mutter",
+       "الأم",
+       "Meine Mutter ist Lehrerin."
+      ],
+      [
+       "der Vater",
+       "الأب",
+       "Mein Vater arbeitet im Büro."
+      ],
+      [
+       "die Eltern",
+       "الوالدان",
+       "Meine Eltern wohnen in Kairo."
+      ],
+      [
+       "der Bruder",
+       "الأخ",
+       "Mein Bruder heißt Omar."
+      ],
+      [
+       "die Schwester",
+       "الأخت",
+       "Ich habe eine Schwester."
+      ],
+      [
+       "der Sohn",
+       "الابن",
+       "Sein Sohn ist fünf Jahre alt."
+      ],
+      [
+       "die Tochter",
+       "الابنة",
+       "Ihre Tochter lernt Deutsch."
+      ],
+      [
+       "die Oma",
+       "الجدة",
+       "Meine Oma kocht sehr gut."
+      ],
+      [
+       "der Opa",
+       "الجد",
+       "Mein Opa liest die Zeitung."
+      ],
+      [
+       "der Onkel",
+       "العم / الخال",
+       "Mein Onkel wohnt in Berlin."
+      ],
+      [
+       "die Tante",
+       "العمة / الخالة",
+       "Meine Tante besucht uns heute."
+      ],
+      [
+       "die Familie",
+       "العائلة",
+       "Meine Familie ist groß."
+      ]
+     ]
+    },
+    {
+     "id": "a1_04",
+     "title": "Essen & Trinken",
+     "titleAr": "الأكل والشرب",
+     "grammarTitle": "المفعول به (Akkusativ) والنفي",
+     "grammar": "المفعول به (Akkusativ): الأداة der تتحول إلى den فقط؛ die وdas لا يتغيران.\nIch esse den Fisch. · Ich esse die Suppe. · Ich esse das Brot.\nمع النكرة: ein → einen للمذكر: Ich möchte einen Tee.\n\nالنفي:\nnicht لنفي الفعل أو الصفة: Ich esse nicht.\nkein/keine لنفي الاسم النكرة: Ich habe keinen Hunger. Ich esse kein Fleisch.\n\nجمل مفيدة: Ich möchte … (أريد) · Ich trinke gern … (أحب أن أشرب) · Das schmeckt gut.",
+     "vocab": [
+      [
+       "das Brot",
+       "الخبز",
+       "Ich esse Brot zum Frühstück."
+      ],
+      [
+       "das Wasser",
+       "الماء",
+       "Ich trinke ein Glas Wasser."
+      ],
+      [
+       "der Tee",
+       "الشاي",
+       "Ich möchte einen Tee, bitte."
+      ],
+      [
+       "der Kaffee",
+       "القهوة",
+       "Der Kaffee ist heiß."
+      ],
+      [
+       "die Milch",
+       "الحليب",
+       "Das Kind trinkt Milch."
+      ],
+      [
+       "der Apfel",
+       "التفاحة",
+       "Der Apfel ist rot."
+      ],
+      [
+       "das Fleisch",
+       "اللحم",
+       "Ich esse kein Fleisch."
+      ],
+      [
+       "der Fisch",
+       "السمك",
+       "Der Fisch schmeckt gut."
+      ],
+      [
+       "der Reis",
+       "الأرز",
+       "Wir essen Reis mit Gemüse."
+      ],
+      [
+       "das Ei",
+       "البيضة",
+       "Ich esse ein Ei."
+      ],
+      [
+       "der Käse",
+       "الجبن",
+       "Ich mag Käse."
+      ],
+      [
+       "die Suppe",
+       "الشوربة",
+       "Die Suppe ist lecker."
+      ]
+     ]
+    },
+    {
+     "id": "a1_05",
+     "title": "Wichtige Verben",
+     "titleAr": "أفعال أساسية",
+     "grammarTitle": "تصريف الأفعال في المضارع",
+     "grammar": "الأفعال المنتظمة: احذف en من المصدر وأضف النهايات:\nich -e · du -st · er/sie/es -t · wir -en · ihr -t · sie/Sie -en\nمثال (lernen): ich lerne · du lernst · er lernt · wir lernen · ihr lernt · sie lernen\n\nhaben: ich habe · du hast · er hat · wir haben · ihr habt · sie haben\n\nأفعال تغيّر حرفها مع du/er: sprechen → du sprichst · essen → du isst · sehen → du siehst · schlafen → du schläfst\n\nالفعل في المكان الثاني: Ich lerne heute Deutsch. / Heute lerne ich Deutsch.\nالسؤال بدون كلمة استفهام: الفعل أولًا: Lernst du Deutsch?",
+     "vocab": [
+      [
+       "machen",
+       "يفعل / يصنع",
+       "Was machst du heute?"
+      ],
+      [
+       "gehen",
+       "يذهب / يمشي",
+       "Ich gehe zur Schule."
+      ],
+      [
+       "kommen",
+       "يأتي",
+       "Er kommt aus Ägypten."
+      ],
+      [
+       "wohnen",
+       "يسكن",
+       "Wir wohnen in Kairo."
+      ],
+      [
+       "lernen",
+       "يتعلم",
+       "Ich lerne Deutsch."
+      ],
+      [
+       "arbeiten",
+       "يعمل",
+       "Sie arbeitet im Krankenhaus."
+      ],
+      [
+       "essen",
+       "يأكل",
+       "Wir essen um zwölf Uhr."
+      ],
+      [
+       "trinken",
+       "يشرب",
+       "Er trinkt gern Tee."
+      ],
+      [
+       "sprechen",
+       "يتحدث",
+       "Sprichst du Englisch?"
+      ],
+      [
+       "haben",
+       "يملك",
+       "Ich habe ein Auto."
+      ],
+      [
+       "sehen",
+       "يرى",
+       "Ich sehe einen Film."
+      ],
+      [
+       "schlafen",
+       "ينام",
+       "Das Baby schläft."
+      ]
+     ]
+    },
+    {
+     "id": "a1_06",
+     "title": "Zeit & Wochentage",
+     "titleAr": "الوقت وأيام الأسبوع",
+     "grammarTitle": "الأيام والوقت وحروف الجر",
+     "grammar": "am + اليوم: am Montag (يوم الاثنين)\num + الساعة: um acht Uhr\nim + الشهر: im Januar\n\nWie spät ist es? = كم الساعة؟\nEs ist halb drei (2:30 – بالألماني: نصف الثالثة) · Viertel nach drei (3:15) · Viertel vor vier (3:45)\n\nكلمات الزمن تأتي غالبًا في أول الجملة والفعل يبقى ثانيًا: Morgen habe ich Zeit.\nكل أيام الأسبوع مذكر: der Montag … der Sonntag.",
+     "vocab": [
+      [
+       "der Montag",
+       "الاثنين",
+       "Am Montag habe ich Deutschkurs."
+      ],
+      [
+       "der Dienstag",
+       "الثلاثاء",
+       "Am Dienstag arbeite ich."
+      ],
+      [
+       "der Mittwoch",
+       "الأربعاء",
+       "Mittwoch ist mein freier Tag."
+      ],
+      [
+       "der Donnerstag",
+       "الخميس",
+       "Am Donnerstag gehe ich einkaufen."
+      ],
+      [
+       "der Freitag",
+       "الجمعة",
+       "Am Freitag besuche ich meine Familie."
+      ],
+      [
+       "der Samstag",
+       "السبت",
+       "Am Samstag schlafe ich lange."
+      ],
+      [
+       "der Sonntag",
+       "الأحد",
+       "Am Sonntag koche ich."
+      ],
+      [
+       "heute",
+       "اليوم",
+       "Heute ist das Wetter schön."
+      ],
+      [
+       "morgen",
+       "غدا",
+       "Morgen habe ich Zeit."
+      ],
+      [
+       "gestern",
+       "أمس",
+       "Gestern war ich zu Hause."
+      ],
+      [
+       "die Woche",
+       "الأسبوع",
+       "Die Woche hat sieben Tage."
+      ],
+      [
+       "die Uhr",
+       "الساعة",
+       "Wie viel Uhr ist es?"
+      ]
+     ]
+    },
+    {
+     "id": "a1_07",
+     "title": "Farben & Kleidung",
+     "titleAr": "الألوان والملابس",
+     "grammarTitle": "الصفات والجمع",
+     "grammar": "الصفة بعد sein لا تتغير: Die Hose ist blau. Die Schuhe sind schwarz.\n\nجمع الأسماء (أشهر الأنماط):\n-n/-en: die Hose → die Hosen · das Hemd → die Hemden\n-e: der Schuh → die Schuhe\n-er: das Kleid → die Kleider\nأداة الجمع دائمًا die. تعلّم الجمع مع كل اسم جديد.\n\nللسؤال عن اللون: Welche Farbe hat das Auto? – Es ist rot.",
+     "vocab": [
+      [
+       "rot",
+       "أحمر",
+       "Das Auto ist rot."
+      ],
+      [
+       "blau",
+       "أزرق",
+       "Der Himmel ist blau."
+      ],
+      [
+       "grün",
+       "أخضر",
+       "Das Gras ist grün."
+      ],
+      [
+       "gelb",
+       "أصفر",
+       "Die Sonne ist gelb."
+      ],
+      [
+       "schwarz",
+       "أسود",
+       "Die Katze ist schwarz."
+      ],
+      [
+       "weiß",
+       "أبيض",
+       "Der Schnee ist weiß."
+      ],
+      [
+       "das Hemd",
+       "القميص",
+       "Das Hemd ist neu."
+      ],
+      [
+       "die Hose",
+       "البنطلون",
+       "Die Hose ist blau."
+      ],
+      [
+       "das Kleid",
+       "الفستان",
+       "Das Kleid ist schön."
+      ],
+      [
+       "die Jacke",
+       "الجاكيت",
+       "Es ist kalt, nimm die Jacke!"
+      ],
+      [
+       "die Schuhe",
+       "الحذاء (جمع)",
+       "Die Schuhe sind groß."
+      ],
+      [
+       "die Mütze",
+       "القبعة (الكاب)",
+       "Ich trage eine Mütze."
+      ]
+     ]
+    },
+    {
+     "id": "a1_08",
+     "title": "Wohnen",
+     "titleAr": "السكن",
+     "grammarTitle": "حروف الجر للمكان (Wo?)",
+     "grammar": "للسؤال عن المكان نستخدم Wo? والجواب بـ in/auf/an/neben/unter مع Dativ:\nder → dem · das → dem · die → der · الجمع → den\nIch bin in der Küche. (die Küche) · Das Buch liegt auf dem Tisch. (der Tisch) · Das Bild hängt an der Wand.\n\nاختصارات: in dem → im · an dem → am · zu dem → zum.\n\nوللوجود: Es gibt + Akkusativ: Es gibt einen Tisch und zwei Stühle.",
+     "vocab": [
+      [
+       "das Haus",
+       "البيت",
+       "Das Haus ist groß."
+      ],
+      [
+       "die Wohnung",
+       "الشقة",
+       "Meine Wohnung hat drei Zimmer."
+      ],
+      [
+       "das Zimmer",
+       "الغرفة",
+       "Das Zimmer ist klein."
+      ],
+      [
+       "die Küche",
+       "المطبخ",
+       "Ich bin in der Küche."
+      ],
+      [
+       "das Bad",
+       "الحمام",
+       "Das Bad ist neben der Küche."
+      ],
+      [
+       "das Schlafzimmer",
+       "غرفة النوم",
+       "Im Schlafzimmer steht ein Bett."
+      ],
+      [
+       "das Wohnzimmer",
+       "غرفة المعيشة",
+       "Wir sehen im Wohnzimmer fern."
+      ],
+      [
+       "der Tisch",
+       "الطاولة",
+       "Das Buch liegt auf dem Tisch."
+      ],
+      [
+       "der Stuhl",
+       "الكرسي",
+       "Der Stuhl steht am Fenster."
+      ],
+      [
+       "das Bett",
+       "السرير",
+       "Das Bett ist bequem."
+      ],
+      [
+       "die Tür",
+       "الباب",
+       "Bitte mach die Tür zu."
+      ],
+      [
+       "das Fenster",
+       "الشباك",
+       "Das Fenster ist offen."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "code": "A2",
+   "name": "أساسي",
+   "units": [
+    {
+     "id": "a2_01",
+     "title": "Alltag & Perfekt",
+     "titleAr": "الروتين اليومي والماضي (Perfekt)",
+     "grammarTitle": "الماضي التام (Perfekt)",
+     "grammar": "Perfekt = haben/sein + Partizip II (في آخر الجملة).\n\nمنتظم: ge + جذر + t → machen → gemacht · kochen → gekocht\nغير منتظم: ge + … + en → gehen → gegangen · treffen → getroffen\nأفعال بفاصل: auf-ge-standen · ein-ge-kauft · an-ge-rufen · an-ge-fangen\nأفعال بدون ge: بادئة be-/ver-/er-/ent-: besuchen → besucht · bezahlen → bezahlt · vergessen → vergessen\n\nمع sein: حركة أو تغيّر حالة (gehen, fahren, kommen, aufstehen, bleiben):\nIch bin gegangen. · Ich bin geblieben.\nمع haben: باقي الأفعال: Ich habe gekocht.\n\nالترتيب: Gestern habe ich Reis gekocht.",
+     "vocab": [
+      [
+       "aufstehen",
+       "يستيقظ / يقوم",
+       "Ich bin um sieben Uhr aufgestanden."
+      ],
+      [
+       "frühstücken",
+       "يتناول الفطور",
+       "Wir haben zusammen gefrühstückt."
+      ],
+      [
+       "einkaufen",
+       "يتسوق",
+       "Ich habe im Supermarkt eingekauft."
+      ],
+      [
+       "kochen",
+       "يطبخ",
+       "Gestern habe ich Reis gekocht."
+      ],
+      [
+       "besuchen",
+       "يزور",
+       "Er hat seine Oma besucht."
+      ],
+      [
+       "anrufen",
+       "يتصل هاتفيا",
+       "Ich habe dich gestern angerufen."
+      ],
+      [
+       "treffen",
+       "يقابل",
+       "Wir haben Freunde getroffen."
+      ],
+      [
+       "fahren",
+       "يسافر / يقود",
+       "Sie ist nach München gefahren."
+      ],
+      [
+       "bezahlen",
+       "يدفع",
+       "Ich habe mit Karte bezahlt."
+      ],
+      [
+       "vergessen",
+       "ينسى",
+       "Ich habe den Schlüssel vergessen."
+      ],
+      [
+       "anfangen",
+       "يبدأ",
+       "Der Kurs hat um neun Uhr angefangen."
+      ],
+      [
+       "bleiben",
+       "يبقى",
+       "Wir sind zu Hause geblieben."
+      ]
+     ]
+    },
+    {
+     "id": "a2_02",
+     "title": "Reisen",
+     "titleAr": "السفر",
+     "grammarTitle": "الأفعال المساعدة (Modalverben)",
+     "grammar": "الأفعال المساعدة: können (يستطيع) · müssen (يجب) · wollen (يريد) · dürfen (مسموح) · sollen (ينبغي)\n\nتصريف können: ich kann · du kannst · er kann · wir können · ihr könnt · sie können\n\nالفعل المساعد في المكان الثاني، والفعل الأساسي بصيغة المصدر في آخر الجملة:\nIch kann morgen kommen. · Wir müssen am Bahnhof umsteigen.\n\nللطلب المهذب: Könnten Sie mir helfen? · Ich möchte ein Ticket nach Berlin.\n\nمفيد في السفر: Wann fährt der nächste Zug? · Wo ist Gleis 3? · Ich habe ein Zimmer reserviert.",
+     "vocab": [
+      [
+       "der Bahnhof",
+       "محطة القطار",
+       "Der Bahnhof ist nicht weit."
+      ],
+      [
+       "der Flughafen",
+       "المطار",
+       "Wir fahren zum Flughafen."
+      ],
+      [
+       "das Ticket",
+       "التذكرة",
+       "Ich brauche ein Ticket nach Hamburg."
+      ],
+      [
+       "der Zug",
+       "القطار",
+       "Der Zug hat Verspätung."
+      ],
+      [
+       "das Gleis",
+       "الرصيف (في المحطة)",
+       "Der Zug fährt auf Gleis fünf ab."
+      ],
+      [
+       "die Reise",
+       "الرحلة",
+       "Die Reise war sehr schön."
+      ],
+      [
+       "das Gepäck",
+       "الأمتعة",
+       "Wo ist mein Gepäck?"
+      ],
+      [
+       "der Koffer",
+       "الشنطة الكبيرة",
+       "Mein Koffer ist schwer."
+      ],
+      [
+       "das Hotel",
+       "الفندق",
+       "Wir haben ein Hotel gebucht."
+      ],
+      [
+       "die Reservierung",
+       "الحجز",
+       "Ich habe eine Reservierung auf den Namen Ali."
+      ],
+      [
+       "der Pass",
+       "جواز السفر",
+       "Haben Sie Ihren Pass dabei?"
+      ],
+      [
+       "die Verspätung",
+       "التأخير",
+       "Der Zug hat zehn Minuten Verspätung."
+      ]
+     ]
+    },
+    {
+     "id": "a2_03",
+     "title": "Gesundheit",
+     "titleAr": "الصحة",
+     "grammarTitle": "ضمائر Dativ والأمر (Imperativ)",
+     "grammar": "الألم: Mir tut der Kopf weh. · Mein Kopf tut weh. · Ich habe Kopfschmerzen.\n\nضمائر Dativ: mir (لي) · dir (لك) · ihm (له) · ihr (لها) · uns (لنا) · euch (لكم) · ihnen (لهم) · Ihnen (لحضرتك)\nWie geht es Ihnen? – Mir geht es gut.\n\nالأمر (Imperativ) مع Sie: الفعل أولًا ثم Sie:\nNehmen Sie das Medikament! · Trinken Sie viel Wasser! · Bleiben Sie im Bett!\nمع du: احذف st: Trink viel Wasser! · Nimm die Tabletten!\n\nللمواعيد: Ich möchte einen Termin vereinbaren.",
+     "vocab": [
+      [
+       "der Arzt",
+       "الطبيب",
+       "Ich muss zum Arzt gehen."
+      ],
+      [
+       "die Ärztin",
+       "الطبيبة",
+       "Die Ärztin untersucht das Kind."
+      ],
+      [
+       "das Fieber",
+       "الحمى (السخونية)",
+       "Ich habe Fieber."
+      ],
+      [
+       "der Kopf",
+       "الرأس",
+       "Mir tut der Kopf weh."
+      ],
+      [
+       "der Bauch",
+       "البطن",
+       "Mein Bauch tut weh."
+      ],
+      [
+       "der Rücken",
+       "الظهر",
+       "Der Rücken tut mir weh."
+      ],
+      [
+       "die Schmerzen",
+       "الألم (جمع)",
+       "Haben Sie starke Schmerzen?"
+      ],
+      [
+       "der Husten",
+       "السعال (الكحة)",
+       "Ich habe seit drei Tagen Husten."
+      ],
+      [
+       "die Erkältung",
+       "نزلة البرد",
+       "Er hat eine Erkältung."
+      ],
+      [
+       "das Medikament",
+       "الدواء",
+       "Nehmen Sie das Medikament dreimal täglich."
+      ],
+      [
+       "die Apotheke",
+       "الصيدلية",
+       "Die Apotheke ist um die Ecke."
+      ],
+      [
+       "der Termin",
+       "الموعد",
+       "Ich brauche einen Termin beim Arzt."
+      ]
+     ]
+    },
+    {
+     "id": "a2_04",
+     "title": "Arbeit & Beruf",
+     "titleAr": "العمل والمهن",
+     "grammarTitle": "ربط الجمل: denn / weil",
+     "grammar": "جمل رئيسية (الفعل ثانيًا) مع und / aber / oder / denn:\nIch lerne Deutsch, denn ich möchte in Deutschland arbeiten.\n\nweil (لأن) تفتح جملة فرعية والفعل المصرّف يذهب إلى آخر الجملة:\nIch lerne Deutsch, weil ich in Deutschland arbeiten möchte.\nإذا بدأت بالجملة الفرعية يأتي الفعل أولًا في الجملة الرئيسية:\nWeil ich arbeiten möchte, lerne ich Deutsch.\n\nالمهن: المؤنث غالبًا بإضافة -in: der Lehrer → die Lehrerin · der Ingenieur → die Ingenieurin.\nبدون أداة: Ich bin Lehrer. (لا نقول ein)",
+     "vocab": [
+      [
+       "der Beruf",
+       "المهنة",
+       "Was sind Sie von Beruf?"
+      ],
+      [
+       "die Arbeit",
+       "العمل",
+       "Die Arbeit beginnt um acht Uhr."
+      ],
+      [
+       "der Chef",
+       "المدير (الرئيس)",
+       "Mein Chef ist sehr nett."
+      ],
+      [
+       "der Kollege",
+       "زميل العمل",
+       "Ich esse mit meinen Kollegen zu Mittag."
+      ],
+      [
+       "das Büro",
+       "المكتب",
+       "Ich arbeite im Büro."
+      ],
+      [
+       "das Gehalt",
+       "الراتب",
+       "Das Gehalt kommt am Monatsende."
+      ],
+      [
+       "die Bewerbung",
+       "طلب التوظيف",
+       "Ich schreibe eine Bewerbung."
+      ],
+      [
+       "der Lebenslauf",
+       "السيرة الذاتية",
+       "Bitte schicken Sie Ihren Lebenslauf."
+      ],
+      [
+       "das Vorstellungsgespräch",
+       "مقابلة العمل",
+       "Morgen habe ich ein Vorstellungsgespräch."
+      ],
+      [
+       "der Lehrer",
+       "المدرس",
+       "Mein Bruder ist Lehrer."
+      ],
+      [
+       "der Ingenieur",
+       "المهندس",
+       "Mein Vater ist Ingenieur."
+      ],
+      [
+       "die Erfahrung",
+       "الخبرة",
+       "Ich habe zwei Jahre Erfahrung."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "code": "B1",
+   "name": "متوسط",
+   "units": [
+    {
+     "id": "b1_01",
+     "title": "Nebensätze & Konnektoren",
+     "titleAr": "الجمل الفرعية وأدوات الربط",
+     "grammarTitle": "الجمل الفرعية (Nebensätze)",
+     "grammar": "obwohl, damit, falls, während, nachdem, bevor, sobald, dass, weil, wenn → الفعل المصرّف في آخر الجملة الفرعية.\nIch gehe raus, obwohl es regnet.\n\ndamit (لكي) تحتاج فاعلًا جديدًا؛ إذا كان الفاعل نفسه استعمل um … zu:\nIch lerne, um die Prüfung zu bestehen.\n\nnachdem مع الحدث الأسبق في Plusquamperfekt:\nNachdem ich gegessen hatte, ging ich spazieren.\n\nأدوات الربط الرئيسية (deshalb, trotzdem, außerdem): تأخذ المكان الأول ثم الفعل مباشرة (قلب):\nIch bin müde, deshalb gehe ich früh schlafen.\n\nentweder … oder / weder … noch: جمل بالترتيب العادي.",
+     "vocab": [
+      [
+       "obwohl",
+       "رغم أن",
+       "Ich gehe raus, obwohl es regnet."
+      ],
+      [
+       "damit",
+       "لكي",
+       "Ich lerne viel, damit ich die Prüfung bestehe."
+      ],
+      [
+       "falls",
+       "في حال / إذا",
+       "Ruf mich an, falls du Hilfe brauchst."
+      ],
+      [
+       "während",
+       "بينما / أثناء",
+       "Während ich koche, hört er Musik."
+      ],
+      [
+       "nachdem",
+       "بعد أن",
+       "Nachdem ich gegessen hatte, ging ich spazieren."
+      ],
+      [
+       "bevor",
+       "قبل أن",
+       "Bevor du gehst, mach das Licht aus."
+      ],
+      [
+       "sobald",
+       "بمجرد أن",
+       "Ich rufe an, sobald ich ankomme."
+      ],
+      [
+       "trotzdem",
+       "ومع ذلك",
+       "Es regnet, trotzdem gehen wir spazieren."
+      ],
+      [
+       "deshalb",
+       "لهذا السبب",
+       "Ich bin müde, deshalb gehe ich früh schlafen."
+      ],
+      [
+       "außerdem",
+       "بالإضافة إلى ذلك",
+       "Er ist nett, außerdem ist er sehr klug."
+      ],
+      [
+       "entweder … oder",
+       "إما … أو",
+       "Wir fahren entweder nach Wien oder nach Prag."
+      ],
+      [
+       "weder … noch",
+       "لا … ولا",
+       "Er isst weder Fleisch noch Fisch."
+      ]
+     ]
+    },
+    {
+     "id": "b1_02",
+     "title": "Meinung äußern",
+     "titleAr": "التعبير عن الرأي",
+     "grammarTitle": "الرأي وتصريف الصفات",
+     "grammar": "Ich finde, dass … (الفعل في آخر الجملة).\nMeiner Meinung nach + فعل + فاعل: Meiner Meinung nach ist das gut.\nللمقارنة: einerseits … andererseits.\n\nتصريف الصفات بعد ein (Nominativ):\nein guter Vorschlag (مذكر -er) · eine gute Idee (مؤنث -e) · ein gutes Argument (محايد -es)\nبعد der/die/das: der gute Vorschlag · die gute Idee · das gute Argument (دائمًا -e)\n\nللاختلاف بأدب: Da bin ich anderer Meinung. · Das sehe ich anders. · Ich bin nicht ganz überzeugt.",
+     "vocab": [
+      [
+       "meiner Meinung nach",
+       "في رأيي",
+       "Meiner Meinung nach ist das eine gute Idee."
+      ],
+      [
+       "ich finde, dass …",
+       "أرى أن …",
+       "Ich finde, dass Deutsch nicht so schwer ist."
+      ],
+      [
+       "ich bin der Ansicht",
+       "أنا من رأي",
+       "Ich bin der Ansicht, dass wir mehr üben sollten."
+      ],
+      [
+       "einerseits … andererseits",
+       "من جهة … ومن جهة أخرى",
+       "Einerseits ist es teuer, andererseits ist es bequem."
+      ],
+      [
+       "der Vorteil",
+       "الميزة",
+       "Ein Vorteil ist die Zeitersparnis."
+      ],
+      [
+       "der Nachteil",
+       "العيب",
+       "Ein Nachteil ist der hohe Preis."
+      ],
+      [
+       "ich stimme zu",
+       "أوافق",
+       "Ich stimme dir völlig zu."
+      ],
+      [
+       "ich bin dagegen",
+       "أنا ضد ذلك",
+       "Ich bin dagegen, weil es zu gefährlich ist."
+      ],
+      [
+       "zum Beispiel",
+       "على سبيل المثال",
+       "Viele Länder, zum Beispiel Spanien, sind warm."
+      ],
+      [
+       "im Vergleich zu",
+       "مقارنة بـ",
+       "Im Vergleich zu früher ist das Leben teurer."
+      ],
+      [
+       "tatsächlich",
+       "في الواقع",
+       "Tatsächlich habe ich das nicht gewusst."
+      ],
+      [
+       "allerdings",
+       "لكن / غير أن",
+       "Das stimmt, allerdings ist es nicht einfach."
+      ]
+     ]
+    },
+    {
+     "id": "b1_03",
+     "title": "Wünsche & Ratschläge",
+     "titleAr": "الأمنيات والنصائح",
+     "grammarTitle": "Konjunktiv II",
+     "grammar": "Konjunktiv II للتمني والنصيحة والطلب المهذب.\nالأكثر استعمالًا: würde + مصدر: Ich würde gern reisen.\n\nأفعال لها صيغة خاصة: haben → hätte · sein → wäre · können → könnte · müssen → müsste · sollen → sollte · wissen → wüsste\n\nالشرط غير الواقعي:\nWenn ich Zeit hätte, würde ich mehr reisen. (الفعل المصرّف في آخر جملة wenn)\n\nنصيحة: An deiner Stelle würde ich … · Du solltest … · Ich würde dir raten, … zu …\nطلب مهذب: Könnten Sie mir helfen? · Hätten Sie einen Moment Zeit?\nتمنٍّ: Ich wäre gern … · Wenn ich nur mehr Zeit hätte!",
+     "vocab": [
+      [
+       "ich würde",
+       "كنت سأ…",
+       "Ich würde gern nach Deutschland reisen."
+      ],
+      [
+       "ich hätte",
+       "كان عندي (لو)",
+       "Ich hätte gern einen Kaffee."
+      ],
+      [
+       "ich wäre",
+       "كنت (لو)",
+       "Ich wäre gern reich."
+      ],
+      [
+       "ich könnte",
+       "يمكنني (بأدب)",
+       "Ich könnte dir helfen."
+      ],
+      [
+       "ich sollte",
+       "ينبغي لي",
+       "Ich sollte mehr schlafen."
+      ],
+      [
+       "ich müsste",
+       "يجب عليّ (لو)",
+       "Ich müsste eigentlich lernen."
+      ],
+      [
+       "an deiner Stelle",
+       "لو كنت مكانك",
+       "An deiner Stelle würde ich den Job annehmen."
+      ],
+      [
+       "der Wunsch",
+       "الأمنية",
+       "Mein größter Wunsch ist eine Reise nach Japan."
+      ],
+      [
+       "der Rat",
+       "النصيحة",
+       "Danke für deinen Rat."
+      ],
+      [
+       "hoffentlich",
+       "آمل / أتمنى",
+       "Hoffentlich bestehe ich die Prüfung."
+      ],
+      [
+       "wenn ich Zeit hätte",
+       "لو كان عندي وقت",
+       "Wenn ich Zeit hätte, würde ich mehr reisen."
+      ],
+      [
+       "es wäre schön",
+       "سيكون جميلا",
+       "Es wäre schön, wenn du kommen könntest."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "code": "B2",
+   "name": "فوق المتوسط",
+   "units": [
+    {
+     "id": "b2_01",
+     "title": "Passiv & Gesellschaft",
+     "titleAr": "المبني للمجهول والمجتمع",
+     "grammarTitle": "المبني للمجهول (Passiv)",
+     "grammar": "Passiv = werden + Partizip II.\nPräsens: Das Auto wird repariert.\nPräteritum: Das Auto wurde repariert.\nPerfekt: Das Auto ist repariert worden. (worden وليس geworden)\nمع فعل مساعد: Das Auto muss repariert werden.\n\nالفاعل الحقيقي (إن ذُكر) مع von + Dativ: Das Buch wurde von einem Schüler geschrieben.\nالوسيلة أو السبب مع durch + Akkusativ.\n\nبدائل Passiv: man → Man repariert das Auto. · sich lassen → Das lässt sich leicht lösen. · sein + zu → Das ist leicht zu lösen. · -bar → lösbar.",
+     "vocab": [
+      [
+       "die Entwicklung",
+       "التطور",
+       "Die Entwicklung der Stadt geht schnell."
+      ],
+      [
+       "die Maßnahme",
+       "الإجراء",
+       "Neue Maßnahmen wurden beschlossen."
+      ],
+      [
+       "die Veranstaltung",
+       "الفعالية",
+       "Die Veranstaltung wird online übertragen."
+      ],
+      [
+       "die Entscheidung",
+       "القرار",
+       "Die Entscheidung wurde gestern getroffen."
+      ],
+      [
+       "die Verantwortung",
+       "المسؤولية",
+       "Er übernimmt die Verantwortung für das Projekt."
+      ],
+      [
+       "die Gesellschaft",
+       "المجتمع",
+       "Die Gesellschaft verändert sich ständig."
+      ],
+      [
+       "die Umwelt",
+       "البيئة",
+       "Die Umwelt muss geschützt werden."
+      ],
+      [
+       "herstellen",
+       "يصنّع / ينتج",
+       "Das Auto wird in Deutschland hergestellt."
+      ],
+      [
+       "erfinden",
+       "يخترع",
+       "Das Telefon wurde im 19. Jahrhundert erfunden."
+      ],
+      [
+       "beschließen",
+       "يقرر (رسميا)",
+       "Das Gesetz wurde vom Parlament beschlossen."
+      ],
+      [
+       "sich lassen",
+       "يمكن أن … (يُنجز)",
+       "Das Problem lässt sich leicht lösen."
+      ],
+      [
+       "die Umsetzung",
+       "التنفيذ",
+       "Die Umsetzung des Plans dauert lange."
+      ]
+     ]
+    },
+    {
+     "id": "b2_02",
+     "title": "Nominalstil & Genitiv",
+     "titleAr": "الأسلوب الاسمي وحروف الجر مع Genitiv",
+     "grammarTitle": "الأسلوب الاسمي (Nominalstil)",
+     "grammar": "الأسلوب الاسمي شائع في الكتابة الرسمية: نحوّل الجملة الفرعية إلى اسم + حرف جر.\nWeil es regnet, bleiben wir zu Hause. → Wegen des Regens bleiben wir zu Hause.\nObwohl es kalt war, … → Trotz der Kälte …\n\nحروف الجر مع Genitiv: wegen · aufgrund · trotz · während · infolge · angesichts · hinsichtlich · bezüglich\nGenitiv: der → des (+ s/es للمذكر والمحايد) · die → der · das → des · الجمع → der\nwegen des Wetters · aufgrund der Kosten\n\nفي الكلام اليومي يُستعمل أحيانًا Dativ بعد wegen/trotz، لكن في الامتحان والكتابة استعمل Genitiv.",
+     "vocab": [
+      [
+       "aufgrund",
+       "بسبب (+ Genitiv)",
+       "Aufgrund des Wetters fällt das Fest aus."
+      ],
+      [
+       "wegen",
+       "بسبب (+ Genitiv)",
+       "Wegen des Regens bleiben wir zu Hause."
+      ],
+      [
+       "trotz",
+       "رغم (+ Genitiv)",
+       "Trotz der Kälte gingen sie schwimmen."
+      ],
+      [
+       "dank",
+       "بفضل (غالبا + Dativ)",
+       "Dank deiner Hilfe habe ich es geschafft."
+      ],
+      [
+       "hinsichtlich",
+       "فيما يتعلق بـ",
+       "Hinsichtlich der Kosten gibt es noch Fragen."
+      ],
+      [
+       "bezüglich",
+       "بخصوص",
+       "Bezüglich Ihrer Anfrage melde ich mich morgen."
+      ],
+      [
+       "im Gegensatz zu",
+       "على عكس",
+       "Im Gegensatz zu ihm lerne ich gern."
+      ],
+      [
+       "die Voraussetzung",
+       "الشرط المسبق",
+       "Eine Voraussetzung ist gutes Deutsch."
+      ],
+      [
+       "die Auswirkung",
+       "التأثير (النتيجة)",
+       "Die Auswirkungen sind noch unklar."
+      ],
+      [
+       "die Tendenz",
+       "الاتجاه",
+       "Es gibt eine steigende Tendenz."
+      ],
+      [
+       "zunehmend",
+       "متزايد",
+       "Die Digitalisierung spielt zunehmend eine Rolle."
+      ],
+      [
+       "infolge",
+       "نتيجة لـ (+ Genitiv)",
+       "Infolge des Streiks fuhren keine Züge."
+      ]
+     ]
+    },
+    {
+     "id": "b2_03",
+     "title": "Argumentation & Erörterung",
+     "titleAr": "الجدل والكتابة الحجاجية",
+     "grammarTitle": "بنية النص الجدلي والكلام غير المباشر",
+     "grammar": "بنية النص الجدلي (Erörterung):\n1) Einleitung: مقدمة + طرح السؤال\n2) Hauptteil: حجج مع أمثلة وأدلة (Pro ثم Contra)\n3) Schluss: استنتاج ورأيك\n\nعبارات ربط: Zunächst … · Darüber hinaus … · Dagegen spricht, dass … · Folglich … · Abschließend lässt sich sagen, dass …\n\nالكلام غير المباشر (Konjunktiv I):\nEr sagt, er sei krank. · Sie behauptet, sie habe keine Zeit. · Der Autor meint, das Problem sei lösbar.\nنكوّنه من جذر المصدر + e: er habe · er sei · er könne · sie gehe.\nإذا تطابقت الصيغة مع المضارع (مثل sie haben) نستخدم Konjunktiv II: sie hätten.",
+     "vocab": [
+      [
+       "die These",
+       "الفرضية / الأطروحة",
+       "Die These des Autors ist umstritten."
+      ],
+      [
+       "das Argument",
+       "الحجة",
+       "Das ist ein starkes Argument."
+      ],
+      [
+       "der Beleg",
+       "الدليل / المرجع",
+       "Für diese Behauptung gibt es keinen Beleg."
+      ],
+      [
+       "die Schlussfolgerung",
+       "الاستنتاج",
+       "Daraus ergibt sich folgende Schlussfolgerung."
+      ],
+      [
+       "widerlegen",
+       "يدحض",
+       "Die Studie widerlegt diese Annahme."
+      ],
+      [
+       "befürworten",
+       "يؤيد",
+       "Viele befürworten die Einführung."
+      ],
+      [
+       "ablehnen",
+       "يرفض",
+       "Die Mehrheit lehnt den Vorschlag ab."
+      ],
+      [
+       "vergleichen",
+       "يقارن",
+       "Man sollte beide Systeme vergleichen."
+      ],
+      [
+       "zusammenfassen",
+       "يلخص",
+       "Fassen Sie den Text kurz zusammen."
+      ],
+      [
+       "erörtern",
+       "يناقش (بتوسع)",
+       "Im Aufsatz erörtere ich die Vor- und Nachteile."
+      ],
+      [
+       "die Herausforderung",
+       "التحدي",
+       "Das ist eine große Herausforderung."
+      ],
+      [
+       "die Behauptung",
+       "الادعاء",
+       "Diese Behauptung stimmt nicht."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
